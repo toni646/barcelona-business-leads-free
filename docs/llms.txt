@@ -1,4 +1,4 @@
-# Leads B2B España — B2B lead databases by city and sector
+# OpenLeads — B2B lead databases by city and sector
 
 > Directories of local-business B2B leads with DNS-verified emails and
 > normalized phone numbers, for cities in Spain and Europe, built from
