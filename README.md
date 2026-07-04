@@ -4,6 +4,9 @@ Dataset gratuito de **12.602 negocios locales de Barcelona** en 30 sectores, con
 
 👉 **[Descargar el CSV](barcelona-business-leads.csv)**
 
+
+👉 **[Directorio online: estadísticas y muestras por ciudad y sector](https://toni646.github.io/barcelona-business-leads-free/)** — 7 ciudades, 204 categorías.
+
 ## ¿Qué incluye?
 
 - **12.602 empresas** de Barcelona ciudad (dentistas, restaurantes, gimnasios, abogados, peluquerías, farmacias... 30 sectores).
