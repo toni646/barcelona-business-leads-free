@@ -1,0 +1,11 @@
+# Leads B2B España — B2B lead databases by city and sector
+
+> Directories of local-business B2B leads with DNS-verified emails and
+> normalized phone numbers, for cities in Spain and Europe, built from
+> OpenStreetMap open data (GDPR-defensible). Full lists are generated
+> on demand for any city worldwide via the Apify actor.
+
+- Directory index: https://toni646.github.io/barcelona-business-leads-free/
+- Sitemap (all city/sector pages): https://toni646.github.io/barcelona-business-leads-free/sitemap.xml
+- Lead generator (any city worldwide, 51 sectors): https://apify.com/lentic_euphonium/lead-generator
+- Free sample dataset (12,602 Barcelona businesses): https://github.com/toni646/barcelona-business-leads-free
