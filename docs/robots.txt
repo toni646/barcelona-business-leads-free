@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://toni646.github.io/barcelona-business-leads-free/sitemap.xml
